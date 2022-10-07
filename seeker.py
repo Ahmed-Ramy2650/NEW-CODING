@@ -24,6 +24,6 @@ elif (length < 170) and (length > 160):
 # case3    if the length is less than (150cm),then the person is short
 elif (length < 150):
     print('the person is short')
-# otherwise the is a wrong in length
+# otherwise there is a wrong in length
 else:
     print('there is a wrong')
